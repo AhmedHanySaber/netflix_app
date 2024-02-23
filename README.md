@@ -14,6 +14,7 @@ Netflix clone app.
 
 ⚫ Interceptor: Added Custom Dio interceptors to watch the request types and the response.
 
+[![Shorts Video](https://img.youtube.com/vi/cSsSAcP1J_M/0.jpg)](https://www.youtube.com/shorts/cSsSAcP1J_M)
 
 
 
